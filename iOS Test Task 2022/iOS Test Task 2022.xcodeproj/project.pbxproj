@@ -15,6 +15,7 @@
 		DF0A125828F7127D00DEC79A /* ImageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF0A125728F7127D00DEC79A /* ImageCell.swift */; };
 		DF0A702028FBD6C000661001 /* FullScrennImageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF0A701F28FBD6C000661001 /* FullScrennImageVC.swift */; };
 		DF0A702228FC13F800661001 /* ImageForUseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF0A702128FC13F800661001 /* ImageForUseModel.swift */; };
+		DF8DEFFD2904427C009E973F /* MainVC+ViewSetup.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF8DEFFC2904427C009E973F /* MainVC+ViewSetup.swift */; };
 		DFBE334328F9C211003A22C2 /* ImagesData.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFBE334228F9C211003A22C2 /* ImagesData.swift */; };
 		DFBE334528F9C4CE003A22C2 /* ImagesNetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFBE334428F9C4CE003A22C2 /* ImagesNetworkManager.swift */; };
 		DFBE334728F9C6B7003A22C2 /* ImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFBE334628F9C6B7003A22C2 /* ImageModel.swift */; };
@@ -32,6 +33,7 @@
 		DF0A125728F7127D00DEC79A /* ImageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCell.swift; sourceTree = "<group>"; };
 		DF0A701F28FBD6C000661001 /* FullScrennImageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScrennImageVC.swift; sourceTree = "<group>"; };
 		DF0A702128FC13F800661001 /* ImageForUseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageForUseModel.swift; sourceTree = "<group>"; };
+		DF8DEFFC2904427C009E973F /* MainVC+ViewSetup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MainVC+ViewSetup.swift"; sourceTree = "<group>"; };
 		DFBE334228F9C211003A22C2 /* ImagesData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesData.swift; sourceTree = "<group>"; };
 		DFBE334428F9C4CE003A22C2 /* ImagesNetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesNetworkManager.swift; sourceTree = "<group>"; };
 		DFBE334628F9C6B7003A22C2 /* ImageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageModel.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 		DF2ECD4F29004E9D007400D4 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				DF8DEFFC2904427C009E973F /* MainVC+ViewSetup.swift */,
 				DF0A125728F7127D00DEC79A /* ImageCell.swift */,
 			);
 			path = View;
@@ -196,6 +199,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DF0A123428F5B2E700DEC79A /* WebVC.swift in Sources */,
+				DF8DEFFD2904427C009E973F /* MainVC+ViewSetup.swift in Sources */,
 				DF0A702228FC13F800661001 /* ImageForUseModel.swift in Sources */,
 				DF0A125828F7127D00DEC79A /* ImageCell.swift in Sources */,
 				DF0A702028FBD6C000661001 /* FullScrennImageVC.swift in Sources */,
